@@ -20,12 +20,13 @@ export default function Greeting() {
         <div className="greeting-main">
           <div className="greeting-text-div">
             <div>
-              <h1
-  className={isDark ? "dark-mode greeting-text" : "greeting-text"}
-  dangerouslySetInnerHTML={{
-    __html: `${greeting.title} 👋`,
-  }}
-></h1>
+   <h1 className={isDark ? "dark-mode greeting-text" : "greeting-text"}>
+  {greeting.title.split("\n").map((line, index) => (
+    <div key={index}>{line}</div>
+  ))}
+  <span className="wave-emoji">{emoji("👋")}</span>
+</h1>
+
 
               <p
                 className={
