@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
  username: "Steven Liu",
- title: "Hi, 初めまして, 你好 \nI'm Steven Liu",
+ title: "Hi, 初めまして, 你好 <br />I'm Steven Liu",
  subTitle: emoji(
   // "A passionate UX designer and creative device developer 🚀, " +
   // "dedicated to exploring the intersection of design, technology, and human experience. " +
@@ -39,7 +39,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/saadpasta",
   linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
+  gmail: "lytssnmdl@gmail.com",
   weixin: "https://gitlab.com/saadpasta",
   facebook: "https://www.facebook.com/saad.pasta7",
   medium: "https://medium.com/@saadpasta",
@@ -53,15 +53,11 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "UXデザインとHCIを軸に、創造的な体験をかたちにする研究者・開発者",
   skills: [
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+    emoji("⚡ Design and prototype user-centric experiences across physical and digital interfaces"),
+  emoji("⚡ Develop interactive systems and creative devices integrating sensors and real-time feedback"),
+  emoji("⚡ Conduct HCI research on embodied interaction, affective computing, and music-based interfaces")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
