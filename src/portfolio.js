@@ -346,7 +346,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://music.163.com/outchain/player?type=2&id=533532835&auto=0&height=66"
+    "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2070743668&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
   ],
   display: true // Set false to hide this section, defaults to true
 };
