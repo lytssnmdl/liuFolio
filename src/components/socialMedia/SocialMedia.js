@@ -99,7 +99,7 @@ export default function socialMedia() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <i className="fab fa-bilibili"></i>
+          <i className="fab fa-weixin"></i>
           <span></span>
         </a>
       ) : null}
