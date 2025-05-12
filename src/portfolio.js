@@ -130,10 +130,10 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
+      schoolName: "東京大学",
+      logo: require("./assets/images/UTokyo_Logotype_B_Color_RGB20240401.png"),
+      subHeader: "博士課程在学中 人間環境情報学専攻",
+      duration: "2023年 9月 - ",
       desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -141,10 +141,10 @@ const educationInfo = {
       ]
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
+      schoolName: "同済大学",
+      logo: require("./assets/images/TongjiLogo.png"),
+      subHeader: "修士課程修了 インタラクションデザイン専攻",
+      duration: "2019年 9月 - 2022年 7月",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
