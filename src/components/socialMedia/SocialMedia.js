@@ -92,14 +92,14 @@ export default function socialMedia() {
         </a>
       ) : null}
 
-      {socialMediaLinks.medium ? (
+      {socialMediaLinks.bilibili ? (
         <a
-          href={socialMediaLinks.medium}
-          className="icon-button medium"
+          href={socialMediaLinks.bilibili}
+          className="icon-button bilibili"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <i className="fab fa-medium"></i>
+          <i className="fab fa-bilibili"></i>
           <span></span>
         </a>
       ) : null}
