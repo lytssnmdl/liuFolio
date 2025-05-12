@@ -42,7 +42,7 @@ const socialMediaLinks = {
   gmail: "lytssnmdl@gmail.com",
   weixin: "https://gitlab.com/saadpasta",
   facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
+  bilibili: "https://space.bilibili.com/2098446?spm_id_from=333.1007.0.0",
   stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
@@ -85,12 +85,12 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-microchip"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      skillName: "SolidEdge",
+      fontAwesomeClassname: "fas fa-cube"
     },
     {
       skillName: "C/C++",
-      fontAwesomeClassname: "fas fa-c"
+      fontAwesomeClassname: "fas fa-code"
     },
     {
       skillName: "DAW",
