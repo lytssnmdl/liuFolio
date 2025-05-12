@@ -21,11 +21,16 @@ export default function Greeting() {
           <div className="greeting-text-div">
             <div>
    <h1 className={isDark ? "dark-mode greeting-text" : "greeting-text"}>
-  {greeting.title.split("\n").map((line, index) => (
-    <div key={index}>{line}</div>
+  {greeting.title.split("\n").map((line, index, array) => (
+    <div key={index}>
+      {line}
+      {index === array.length - 1 && (
+        <span className="wave-emoji">👋</span>
+      )}
+    </div>
   ))}
-  <span className="wave-emoji">{emoji("👋")}</span>
 </h1>
+
 
 
               <p
