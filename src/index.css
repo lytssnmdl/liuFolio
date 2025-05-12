@@ -22,7 +22,9 @@ body {
 }
 body {
   margin: 0;
-  font: 19px / 23px Montserrat, "Montserrat", sans-serif;
+  font-family: 'Montserrat', 'Noto Sans JP', 'Yu Gothic UI', 'Meiryo', sans-serif;
+  font-size: 19px;
+  line-height: 1.4;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
