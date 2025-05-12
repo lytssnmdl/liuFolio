@@ -69,15 +69,15 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "Python",
+      fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "figma",
+      skillName: "Figma",
       fontAwesomeClassname: "fab fa-figma"
     },
     {
-      skillName: "unity",
+      skillName: "Unity",
       fontAwesomeClassname: "fab fa-unity"
     },
     {
@@ -85,40 +85,28 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      skillName: "Arduino",
+      fontAwesomeClassname: "fas fa-microchip"
     },
     {
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      skillName: "C/C++",
+      fontAwesomeClassname: "fas fa-c"
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
+      skillName: "DAW",
+      fontAwesomeClassname: "fas fa-music"
     },
     {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      skillName: "html-5",
+      fontAwesomeClassname: "fab fa-html5"
     }
   ],
   display: true // Set false to hide this section, defaults to true
