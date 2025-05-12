@@ -73,12 +73,12 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      skillName: "figma",
+      fontAwesomeClassname: "fab fa-figma"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "unity",
+      fontAwesomeClassname: "fab fa-unity"
     },
     {
       skillName: "JavaScript",
