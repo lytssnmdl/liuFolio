@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
  username: "Steven Liu",
- title: "Hi, 初めまして, 你好 \nI'm Steven Liu",
+ title: "Hi, 初めまして, 你好        I'm Steven Liu",
  subTitle: emoji(
   // "A passionate UX designer and creative device developer 🚀, " +
   // "dedicated to exploring the intersection of design, technology, and human experience. " +
