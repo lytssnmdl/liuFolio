@@ -21,11 +21,11 @@ const illustration = {
 
 const greeting = {
  username: "Steven Liu",
- title: "Hi all, 初めまして, 你好, I'm Steven Liu",
+ title: "Hi, 初めまして, 你好, I'm Steven Liu",
  subTitle: emoji(
-  "A passionate UX designer and creative device developer 🚀, " +
-  "dedicated to exploring the intersection of design, technology, and human experience. " +
-  "My work spans HCI research, interactive systems, and the development of intuitive, user-centered hardware and software solutions. " +
+  // "A passionate UX designer and creative device developer 🚀, " +
+  // "dedicated to exploring the intersection of design, technology, and human experience. " +
+  // "My work spans HCI research, interactive systems, and the development of intuitive, user-centered hardware and software solutions. " +
   "デザイン、技術、人間の体験の交差点を探求するUXデザイナー兼創造的デバイス開発者です🚀。 " +
   "HCI（人間中心インタラクション）研究を基盤に、直感的でユーザー中心のハードウェアおよびソフトウェアシステムの開発に取り組んでいます。"
 ),
