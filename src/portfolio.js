@@ -346,7 +346,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "http://163cn.tv/ES03cwr"
+    "https://music.163.com/outchain/player?type=2&id=533532835&auto=0&height=66"
   ],
   display: true // Set false to hide this section, defaults to true
 };
