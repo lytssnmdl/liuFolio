@@ -44,14 +44,14 @@ export default function socialMedia() {
         </a>
       ) : null}
 
-      {socialMediaLinks.gitlab ? (
+      {socialMediaLinks.weixin ? (
         <a
-          href={socialMediaLinks.gitlab}
-          className="icon-button gitlab"
+          href={socialMediaLinks.weixin}
+          className="icon-button weixin"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <i className="fab fa-gitlab"></i>
+          <i className="fab fa-weixin"></i>
           <span></span>
         </a>
       ) : null}
