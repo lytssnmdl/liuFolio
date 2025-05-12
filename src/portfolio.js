@@ -101,10 +101,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-music"
     },
     {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
       skillName: "html-5",
       fontAwesomeClassname: "fab fa-html5"
     }
