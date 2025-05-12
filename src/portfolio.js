@@ -26,8 +26,8 @@ const greeting = {
   // "A passionate UX designer and creative device developer 🚀, " +
   // "dedicated to exploring the intersection of design, technology, and human experience. " +
   // "My work spans HCI research, interactive systems, and the development of intuitive, user-centered hardware and software solutions. " +
-  "デザイン、技術、人間の体験の交差点を探求するUXデザイナー兼創造的デバイス開発者です🚀。 " +
-  "HCI（人間中心インタラクション）研究を基盤に、直感的でユーザー中心のハードウェアおよびソフトウェアシステムの開発に取り組んでいます。"
+ "A UX designer and creative device developer who explores the intersection of design, technology, and human experience 🚀. " +
+"Based on research in HCI (Human-Computer Interaction), I am engaged in developing intuitive and user-centered hardware and software systems."
 ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -110,10 +110,10 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "東京大学",
+      schoolName: "The University of Tokyo",
       logo: require("./assets/images/UTokyo_Logotype_B_Color_RGB20240401.png"),
-      subHeader: "博士課程在学中 人間環境情報学専攻",
-      duration: "2023年 9月 - ",
+      subHeader: "Ph.D. course of Human & Environment Informatics Lab, Department of Human and Engineered Environmental Studies, Graduate School of Frontier Sciences",
+      duration: "September 2023 – Present",
       desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -121,10 +121,18 @@ const educationInfo = {
       ]
     },
     {
-      schoolName: "同済大学",
+      schoolName: "Tongji University",
       logo: require("./assets/images/TongjiLogo.png"),
-      subHeader: "修士課程修了 インタラクションデザイン専攻",
-      duration: "2019年 9月 - 2022年 7月",
+      subHeader: "Master of Interaction Design, College of Design & Innovation",
+      duration: "September 2019 – July 2022",
+      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+    },
+    {
+      schoolName: "Shanghai University",
+      logo: require("./assets/images/ShanghaiLogo.png"),
+      subHeader: "Bachelor of Communication Engineering, College of Communication and Information Engineering",
+      duration: "September 2014 – July 2018",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
