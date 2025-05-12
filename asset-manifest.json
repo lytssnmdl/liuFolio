@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/liuFolio/static/css/main.5ea747b5.css",
-    "main.js": "/liuFolio/static/js/main.02e51c5c.js",
+    "main.js": "/liuFolio/static/js/main.7a7a884e.js",
     "static/css/64.bba8fa55.chunk.css": "/liuFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/liuFolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/liuFolio/static/css/769.b3cbb36b.chunk.css",
@@ -9,6 +9,7 @@
     "static/media/TongjiLogo.png": "/liuFolio/static/media/TongjiLogo.9a742087910d19565b32.png",
     "static/media/Montserrat-Regular.ttf": "/liuFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/liuFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/ShanghaiLogo.png": "/liuFolio/static/media/ShanghaiLogo.887d0389bbe82e09c264.png",
     "static/media/UTokyo_Logotype_B_Color_RGB20240401.png": "/liuFolio/static/media/UTokyo_Logotype_B_Color_RGB20240401.200219f28c8286c219d7.png",
     "static/media/manOnTable.svg": "/liuFolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/liuFolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
@@ -26,7 +27,7 @@
     "index.html": "/liuFolio/index.html",
     "static/media/talksCardBack.svg": "/liuFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.5ea747b5.css.map": "/liuFolio/static/css/main.5ea747b5.css.map",
-    "main.02e51c5c.js.map": "/liuFolio/static/js/main.02e51c5c.js.map",
+    "main.7a7a884e.js.map": "/liuFolio/static/js/main.7a7a884e.js.map",
     "64.bba8fa55.chunk.css.map": "/liuFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/liuFolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/liuFolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -34,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.5ea747b5.css",
-    "static/js/main.02e51c5c.js"
+    "static/js/main.7a7a884e.js"
   ]
 }
