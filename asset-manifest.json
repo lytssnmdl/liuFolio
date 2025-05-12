@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/liuFolio/static/css/main.5ea747b5.css",
-    "main.js": "/liuFolio/static/js/main.cc41fb58.js",
+    "main.js": "/liuFolio/static/js/main.750b66b5.js",
     "static/css/64.bba8fa55.chunk.css": "/liuFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/liuFolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/liuFolio/static/css/769.b3cbb36b.chunk.css",
@@ -22,12 +22,11 @@
     "static/media/skill.svg": "/liuFolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/resume.pdf": "/liuFolio/static/media/resume.f0f733dd3cd732b39262.pdf",
     "static/media/pwaLogo.webp": "/liuFolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
-    "static/media/saayaHealthLogo.webp": "/liuFolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
     "static/media/nextuLogo.webp": "/liuFolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/liuFolio/index.html",
     "static/media/talksCardBack.svg": "/liuFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.5ea747b5.css.map": "/liuFolio/static/css/main.5ea747b5.css.map",
-    "main.cc41fb58.js.map": "/liuFolio/static/js/main.cc41fb58.js.map",
+    "main.750b66b5.js.map": "/liuFolio/static/js/main.750b66b5.js.map",
     "64.bba8fa55.chunk.css.map": "/liuFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/liuFolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/liuFolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -35,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.5ea747b5.css",
-    "static/js/main.cc41fb58.js"
+    "static/js/main.750b66b5.js"
   ]
 }
