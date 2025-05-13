@@ -1,9 +1,9 @@
 @import "../../_globalColor";
 
 .card-image {
-  width: 100%;
+  width: 100%;                 // 横向填满父容器
   height: auto;
-  object-fit: contain;
+  object-fit: cover;           // 保持比例并填满横向
   display: block;
 }
 .card-title {
@@ -19,14 +19,12 @@
   line-height: 1.5rem;
 }
 .project-card {
-  display: flex;
-  flex-direction: column;
-  min-height: 250px;
-  background-color: $lightBackground2;
-  padding: 1.5rem;
-  border-radius: 10px;
-  border: 1px solid $lightBorder1;
-  justify-content: center;
+  width: 100%;
+  max-width: none;        // 💥 移除默认限制
+  padding: 0;
+  border-radius: 0;
+  box-shadow: none;
+  background: transparent;
 }
 .project-card-light {
   box-shadow: $lightBoxShadowDark 0px 10px 30px -15px;
@@ -53,8 +51,7 @@
 }
 .project-image {
   width: 100%;
-  padding: 1rem 2rem; // 左右保留边距
-  box-sizing: border-box;
+  padding: 0;                  // 可选，避免缩小
   display: flex;
   justify-content: center;
   align-items: center;
