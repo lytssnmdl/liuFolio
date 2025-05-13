@@ -81,6 +81,15 @@
   transition: 0.2s ease-in;
 }
 
+.full-width-card {
+  grid-column: 1 / -1;         // 💥 占满整行
+  width: 100%;
+  max-width: 100%;
+  padding: 0;
+  background: none;
+  box-shadow: none;
+}
+
 @media (max-width: 768px) {
   .project-subtitle {
     font-size: 16px;
