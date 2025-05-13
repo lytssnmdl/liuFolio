@@ -2,8 +2,9 @@
 
 .card-image {
   max-width: 100%;
-  height: auto;
   width: 250px;
+  height: auto;
+  object-fit: contain;    // 防止图片变形
 }
 .card-title {
   color: $titleColor;
@@ -51,11 +52,11 @@
 }
 .project-image {
   position: relative;
-  height: 250px;
-  overflow: hidden;
+  height: auto;           // 🔧 原本的 250px 会强制裁切图片高度
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 1rem 0;        // 可选，为上下留出空间
 }
 
 .projects-container {
