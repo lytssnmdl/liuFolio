@@ -14,6 +14,7 @@
 }
 .card-title {
   color: $titleColor;
+  min-height: 3rem;
   font-size: 1.375rem;
   line-height: 24px;
   font-weight: 700;
@@ -21,6 +22,7 @@
 }
 .card-subtitle {
   color: $cardSubtitle;
+  min-height: 4.5rem;
   font-size: 1.063rem;
   line-height: 1.5rem;
 }
