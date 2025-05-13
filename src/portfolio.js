@@ -116,8 +116,9 @@ const educationInfo = {
       duration: "September 2023 – Present",
       desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "劉羽童, 福井類, 「A wearable music generation device for arousing leisure motivation using the effect of self-efficacy」, 日本機械学会ロボティクス・メカトロニクス講演会2024講演論文集, 宇都宮, 2024年6月, 講演番号: 1P2-H01.",
+        "劉羽童, 本田功輝, 福井類, 「意味に基づくリストバンド型音楽生成システムの設計 －象徴的手法と比較した自己効力感の向上－」, 第30回ロボティクスシンポジア予稿集, 愛媛県松山市, 2025年3月, pp.166-168.",
+        "Yutong Liu, Koki Honda, Rui Fukui, "Design of a Semantic-Based Wrist-Worn Music Generation System: Enhancing Self-Efficacy Compared to Traditional Symbolic-Based Methods."
       ]
     },
     {
@@ -126,7 +127,7 @@ const educationInfo = {
       subHeader: "Master of Interaction Design, College of Design & Innovation",
       duration: "September 2019 – July 2022",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      descBullets: ["Y. Liu, "Research on the Design of Digital Twin System for Construction Safety," In Proceedings of 2nd International Signal Processing, Communications and Engineering Management Conference (ISPCEM), Montreal, ON, Canada, 2022, pp. 254-258."]
     },
     {
       schoolName: "Shanghai University",
@@ -205,7 +206,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Portfolio",
-  subtitle: "UX works developed during my postgraduate studies in interaction design.",
+  subtitle: "CHECK OUT MY UX JOURNEY IN SHANGHAI！",
   projects: [
     {
       image: require("./assets/images/Portfolio.webp"),
@@ -214,7 +215,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "View Portfolio",
-          url: "/Portfolio_Liu Yutong.pdf"
+          url: process.env.PUBLIC_URL + "/Portfolio_Liu%20Yutong.pdf"
         }
         //  you can add extra buttons here.
       ]
