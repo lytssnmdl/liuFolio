@@ -293,9 +293,9 @@ const achievementSection = {
     },
 
     {
-      title: "PWA Web App Developer",
+      title: "Miyazaki Prefecture's Digital Human Tourism Promotion",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/miyazaki.jpg"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Certification", url: ""},
