@@ -205,16 +205,16 @@ const openSource = {
 
 const bigProjects = {
   title: "Portfolio",
-  subtitle: "CHECK OUT MY UX JOURNEY IN SHANGHAI！",
+  subtitle: "UX works developed during my postgraduate studies in interaction design.",
   projects: [
     {
       image: require("./assets/images/Portfolio.webp"),
       projectName: "My UX Portfolio",
-      projectDesc: "Check out my UX journey in Shanghai",
+      projectDesc: "UX works developed during my postgraduate studies in interaction design",
       footerLink: [
         {
           name: "View Portfolio",
-          url: "http://saayahealth.com/"
+          url: "/Portfolio_Liu Yutong.pdf"
         }
         //  you can add extra buttons here.
       ]
