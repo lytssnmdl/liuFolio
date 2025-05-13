@@ -208,7 +208,7 @@ const bigProjects = {
   subtitle: "CHECK OUT MY UX JOURNEY IN SHANGHAI！",
   projects: [
     {
-      image: require("./assets/images/Portfolio.jpg"),
+      image: require("./assets/images/Portfolio.webp"),
       projectName: "My UX Portfolio",
       projectDesc: "Check out my UX journey in Shanghai",
       footerLink: [
