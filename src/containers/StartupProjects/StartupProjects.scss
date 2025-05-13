@@ -1,11 +1,11 @@
 @import "../../_globalColor";
 
 .card-image {
-  width: 100%;
-  height: auto;
-  display: block;
+  width: 100% !important;
+  height: auto !important;
+  display: block !important;
   object-fit: contain;
-  border: 2px solid blue; // 调试用
+  border: 2px solid blue;
 }
 .card-title {
   color: $titleColor;
