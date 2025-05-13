@@ -114,7 +114,7 @@ const educationInfo = {
       logo: require("./assets/images/UTokyo_Logotype_B_Color_RGB20240401.png"),
       subHeader: "Ph.D. course of Human & Environment Informatics Lab, Department of Human and Engineered Environmental Studies, Graduate School of Frontier Sciences",
       duration: "September 2023 – Present",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "Participated in the research of AI, HCI and music and published 3 papers.",
       descBullets: [
         "劉羽童, 福井類, 「A wearable music generation device for arousing leisure motivation using the effect of self-efficacy」, 日本機械学会ロボティクス・メカトロニクス講演会2024講演論文集, 宇都宮, 2024年6月, 講演番号: 1P2-H01.",
         "劉羽童, 本田功輝, 福井類, 「意味に基づくリストバンド型音楽生成システムの設計 －象徴的手法と比較した自己効力感の向上－」, 第30回ロボティクスシンポジア予稿集, 愛媛県松山市, 2025年3月, pp.166-168.",
@@ -126,7 +126,7 @@ const educationInfo = {
       logo: require("./assets/images/TongjiLogo.png"),
       subHeader: "Master of Interaction Design, College of Design & Innovation",
       duration: "September 2019 – July 2022",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      desc: "Ranked top 10% in the college. Took courses about UX design, Service Design, Interaction Design, ...",
       descBullets: ["Y. Liu, Research on the Design of Digital Twin System for Construction Safety, In Proceedings of 2nd International Signal Processing, Communications and Engineering Management Conference (ISPCEM), Montreal, ON, Canada, 2022, pp. 254-258."]
     },
     {
@@ -134,7 +134,7 @@ const educationInfo = {
       logo: require("./assets/images/ShanghaiLogo.png"),
       subHeader: "Bachelor of Communication Engineering, College of Communication and Information Engineering",
       duration: "September 2014 – July 2018",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      desc: "Acquired knowledge in information processing and embedded technologies; independently developed several IoT projects.",
       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
@@ -241,13 +241,13 @@ const bigProjects = {
 const achievementSection = {
   title: emoji("Ongoing Projects 🏆 "),
   subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+    ""Some interesting projects I'm currently working on or collaborating with a team !",
 
   achievementsCards: [
     {
-      title: "Semantic Gesture-Based Music Generation",
+      title: "Semantic Gesture-Based Music Generation System",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "An intuitive music generation system that empowers users to create expressive music through natural gestures and emotion-driven input.",
       image: require("./assets/images/music2.jpg"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
@@ -257,10 +257,10 @@ const achievementSection = {
         },
         {
           name: "Video",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+          url: "https://youtu.be/KCtLg8ClEvc"
         },
         {
-          name: "Google Code-in Blog",
+          name: "Slides",
           url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
         }
       ]
@@ -286,7 +286,7 @@ const achievementSection = {
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
-          name: "Paper",
+          name: "Slides",
           url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
         }
       ]
@@ -300,8 +300,8 @@ const achievementSection = {
       footerLink: [
         {name: "Certification", url: ""},
         {
-          name: "Slides",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "Coming Soon",
+          url: ""
         }
       ]
     }
