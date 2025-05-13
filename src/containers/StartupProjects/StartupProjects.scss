@@ -5,7 +5,7 @@
   height: auto !important;
   display: block !important;
   object-fit: contain;
-  border: 2px solid blue;
+  // border: 2px solid blue;
 }
 .card-title {
   color: $titleColor;
@@ -81,7 +81,7 @@
 }
 
 .full-width-card {
-  border: 2px solid red;
+  // border: 2px solid red;
   width: 100%;
   max-width: 100%;
   grid-column: 1 / -1 !important;
