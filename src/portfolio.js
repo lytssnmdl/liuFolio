@@ -127,7 +127,7 @@ const educationInfo = {
       subHeader: "Master of Interaction Design, College of Design & Innovation",
       duration: "September 2019 – July 2022",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Y. Liu, "Research on the Design of Digital Twin System for Construction Safety," In Proceedings of 2nd International Signal Processing, Communications and Engineering Management Conference (ISPCEM), Montreal, ON, Canada, 2022, pp. 254-258."]
+      descBullets: ["Y. Liu, Research on the Design of Digital Twin System for Construction Safety, In Proceedings of 2nd International Signal Processing, Communications and Engineering Management Conference (ISPCEM), Montreal, ON, Canada, 2022, pp. 254-258."]
     },
     {
       schoolName: "Shanghai University",
