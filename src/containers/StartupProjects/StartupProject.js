@@ -36,13 +36,14 @@ export default function StartupProject() {
             {bigProjects.projects.map((project, i) => {
               return (
                 <div
-                  key={i}
-                  className={
-                    isDark
-                      ? "dark-mode project-card project-card-dark"
-                      : "project-card project-card-light"
-                  }
-                >
+  key={i}
+  className={
+    (isDark
+      ? "dark-mode project-card project-card-dark"
+      : "project-card project-card-light") +
+    (project.projectName === "My UX Portfolio" ? " full-width-card" : "")
+  }
+>
                   {project.image ? (
                     <div className="project-image">
                       <img
