@@ -248,7 +248,7 @@ const achievementSection = {
       title: "Semantic Gesture-Based Music Generation",
       subtitle:
         "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/music.png"),
+      image: require("./assets/images/music.jpg"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
