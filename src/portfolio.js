@@ -278,6 +278,19 @@ const achievementSection = {
         }
       ]
     },
+     {
+      title: "Google Assistant Action",
+      subtitle:
+        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+      image: require("./assets/images/googleAssistantLogo.webp"),
+      imageAlt: "Google Assistant Action Logo",
+      footerLink: [
+        {
+          name: "Paper",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        }
+      ]
+    },
 
     {
       title: "PWA Web App Developer",
