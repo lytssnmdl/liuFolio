@@ -207,29 +207,29 @@ const bigProjects = {
   title: "Portfolio",
   subtitle: "CHECK OUT MY UX JOURNEY IN SHANGHAI！",
   projects: [
-    // {
-    //   image: require("./assets/images/Portfolio.jpg"),
-    //   projectName: "My UX Portfolio",
-    //   projectDesc: "Check out my UX journey in Shanghai",
-    //   footerLink: [
-    //     {
-    //       name: "View Portfolio",
-    //       url: "http://saayahealth.com/"
-    //     }
-    //     //  you can add extra buttons here.
-    //   ]
-    // },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/Portfolio.jpg"),
+      projectName: "My UX Portfolio",
+      projectDesc: "Check out my UX journey in Shanghai",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "View Portfolio",
+          url: "http://saayahealth.com/"
         }
+        //  you can add extra buttons here.
       ]
     }
+    // {
+    //   image: require("./assets/images/nextuLogo.webp"),
+    //   projectName: "Nextu",
+    //   projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    //   footerLink: [
+    //     {
+    //       name: "Visit Website",
+    //       url: "http://nextu.se/"
+    //     }
+    //   ]
+    // }
   ],
   display: true // Set false to hide this section, defaults to true
 };
