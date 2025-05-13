@@ -269,7 +269,7 @@ const achievementSection = {
       title: "Google Assistant Action",
       subtitle:
         "A Digital Twin System for Construction Site Safety Management",
-      image: require("./assets/images/DT.jpg"),
+      image: require("./assets/images/DT2.jpg"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
