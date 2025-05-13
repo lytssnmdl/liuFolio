@@ -83,12 +83,8 @@
 }
 
 .full-width-card {
-  grid-column: 1 / -1;         // 💥 占满整行
-  width: 100%;
-  max-width: 100%;
-  padding: 0;
-  background: none;
-  box-shadow: none;
+  grid-column: 1 / -1 !important;
+  border: 2px solid red;  // 🔍调试时可见范围
 }
 
 @media (max-width: 768px) {
