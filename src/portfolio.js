@@ -205,7 +205,7 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Portfolio 🎨",
+  title: "Portfolio",
   subtitle: "CHECK OUT MY UX JOURNEY IN SHANGHAI！",
   projects: [
     {
@@ -298,7 +298,7 @@ const achievementSection = {
       image: require("./assets/images/miyazaki.jpg"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+       
         {
           name: "Coming Soon",
           url: "https://www.pref.miyazaki.lg.jp/"
