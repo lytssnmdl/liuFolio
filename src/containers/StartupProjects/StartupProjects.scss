@@ -1,11 +1,12 @@
 @import "../../_globalColor";
 
 .card-image {
-  width: 100%;
+  width: 100%;              // 💥 关键，宽度占满父容器
   height: auto;
-  object-fit: contain;
   display: block;
+  object-fit: contain;
   margin: 0 auto;
+  border: 2px dashed blue;
 }
 .card-title {
   color: $titleColor;
@@ -52,10 +53,10 @@
 }
 .project-image {
   width: 100%;
-  padding: 0;                  // 可选，避免缩小
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 0;
 }
 
 .projects-container {
