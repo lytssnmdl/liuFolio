@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/liuFolio/static/css/main.fb2ddb86.css",
+    "main.css": "/liuFolio/static/css/main.00a62783.css",
     "main.js": "/liuFolio/static/js/main.ba94b10c.js",
     "static/css/64.bba8fa55.chunk.css": "/liuFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/liuFolio/static/js/64.56dc6704.chunk.js",
@@ -25,7 +25,7 @@
     "static/media/pwaLogo.webp": "/liuFolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
     "index.html": "/liuFolio/index.html",
     "static/media/talksCardBack.svg": "/liuFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.fb2ddb86.css.map": "/liuFolio/static/css/main.fb2ddb86.css.map",
+    "main.00a62783.css.map": "/liuFolio/static/css/main.00a62783.css.map",
     "main.ba94b10c.js.map": "/liuFolio/static/js/main.ba94b10c.js.map",
     "64.bba8fa55.chunk.css.map": "/liuFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/liuFolio/static/js/64.56dc6704.chunk.js.map",
@@ -33,7 +33,7 @@
     "769.bda0d7b7.chunk.js.map": "/liuFolio/static/js/769.bda0d7b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb2ddb86.css",
+    "static/css/main.00a62783.css",
     "static/js/main.ba94b10c.js"
   ]
 }
