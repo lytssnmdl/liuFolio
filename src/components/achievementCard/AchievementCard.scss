@@ -1,5 +1,12 @@
 @import "../../_globalColor";
 
+.achievement-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain; // 或 cover，如果你希望裁剪适应
+  border-radius: 8px;  // 可选，美观一点
+}
 .card-image {
   max-width: 100%;
   height: auto;
