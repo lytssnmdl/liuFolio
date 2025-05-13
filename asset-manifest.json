@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/liuFolio/static/css/main.05ccc1c2.css",
-    "main.js": "/liuFolio/static/js/main.8575caef.js",
+    "main.js": "/liuFolio/static/js/main.552e736d.js",
     "static/css/64.bba8fa55.chunk.css": "/liuFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/liuFolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/liuFolio/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/liuFolio/static/js/769.bda0d7b7.chunk.js",
     "static/media/DT.jpg": "/liuFolio/static/media/DT.9087e9e849eb63a7d316.jpg",
-    "static/media/music.jpg": "/liuFolio/static/media/music.dc9834078ae2e917f58f.jpg",
+    "static/media/music2.jpg": "/liuFolio/static/media/music2.9d5bad7f36a9630eca44.jpg",
     "static/media/TongjiLogo.png": "/liuFolio/static/media/TongjiLogo.9a742087910d19565b32.png",
     "static/media/Portfolio.webp": "/liuFolio/static/media/Portfolio.94bcd6fb857b3529bef2.webp",
     "static/media/Montserrat-Regular.ttf": "/liuFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -27,7 +27,7 @@
     "index.html": "/liuFolio/index.html",
     "static/media/talksCardBack.svg": "/liuFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.05ccc1c2.css.map": "/liuFolio/static/css/main.05ccc1c2.css.map",
-    "main.8575caef.js.map": "/liuFolio/static/js/main.8575caef.js.map",
+    "main.552e736d.js.map": "/liuFolio/static/js/main.552e736d.js.map",
     "64.bba8fa55.chunk.css.map": "/liuFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/liuFolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/liuFolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -35,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.05ccc1c2.css",
-    "static/js/main.8575caef.js"
+    "static/js/main.552e736d.js"
   ]
 }
