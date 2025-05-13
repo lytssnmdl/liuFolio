@@ -17,7 +17,7 @@ export default function AchievementCard({cardInfo, isDark}) {
         <img
           src={cardInfo.image}
           alt={cardInfo.imageAlt || "Card Thumbnail"}
-          className="card-image"
+          className="achievement-image"
         ></img>
       </div>
       <div className="certificate-detail-div">
