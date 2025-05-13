@@ -205,7 +205,7 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Portfolio",
+  title: "Portfolio 🎨",
   subtitle: "CHECK OUT MY UX JOURNEY IN SHANGHAI！",
   projects: [
     {
@@ -239,7 +239,7 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Ongoing Projects 🏆 "),
+  title: emoji("Ongoing Projects 🚀 "),
   subtitle:
     ""Some interesting projects I'm currently working on or collaborating with a team !",
 
@@ -266,9 +266,9 @@ const achievementSection = {
       ]
     },
     {
-      title: "A Digital Twin System for Construction Site Safety Management",
+      title: "Digital Twin of Construction Site Safety Management",
       subtitle:
-        "A Digital Twin System for Construction Site Safety Management",
+        "Design of an AR digital twin safety management system for on-site construction safety officers.",
       image: require("./assets/images/DT2.jpg"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
@@ -281,7 +281,7 @@ const achievementSection = {
      {
       title: "Mind-Align",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+        "AI schedule management service for predicting daytime productivity based on sleep physiological data.",
       image: require("./assets/images/mind.jpg"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
@@ -294,14 +294,14 @@ const achievementSection = {
 
     {
       title: "Miyazaki Prefecture's Digital Human Tourism Promotion",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      subtitle: "AI digital human reception and promotion system for tourism development in Miyazaki Prefecture.",
       image: require("./assets/images/miyazaki.jpg"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Certification", url: ""},
         {
           name: "Coming Soon",
-          url: ""
+          url: "https://www.pref.miyazaki.lg.jp/"
         }
       ]
     }
@@ -312,23 +312,24 @@ const achievementSection = {
 // Blogs Section
 
 const blogSection = {
-  title: "Blogs",
+  title: "Papers 📄",
   subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+    "With Love for Developing cool stuff, I published research outcomes and papers:",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://ieeexplore.ieee.org/abstract/document/10070318",
+      title: "Research on the Design of Digital Twin System for Construction Safety",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "A user-centered digital twin system is proposed to enhance construction safety management and on-site usability."
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
+      url: "https://www.jstage.jst.go.jp/article/jsmermd/2024/0/2024_1P2-H01/_article/-char/ja/",
+      title: "A wearable music generation device for arousing leisure motivation using the effect of self-efficacy",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "A wearable device that enhances leisure motivation by turning music listeners into active creators through improved self-efficacy."
     }
+    
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -378,8 +379,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+  number: "+92-080-7509-7583",
+  email_address: "lytssnmdl@gmail.com"
 };
 
 // Twitter Section
@@ -389,7 +390,7 @@ const twitterDetails = {
   display: true // Set true to display this section, defaults to false
 };
 
-const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+const isHireable = ture; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
   illustration,
