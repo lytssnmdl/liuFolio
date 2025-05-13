@@ -13,14 +13,14 @@
   display: block !important;
   object-fit: contain;
 }
-.card-title {
+.project-card .card-title {
   color: $titleColor;
   font-size: 22px;
   line-height: 24px;
   font-weight: 700;
   margin: 15px 0 0 0;
 }
-.card-subtitle {
+.project-card .card-subtitle {
   color: $cardSubtitle;
   font-size: 17px;
   line-height: 1.5rem;
