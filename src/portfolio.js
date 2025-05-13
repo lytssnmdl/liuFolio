@@ -118,7 +118,7 @@ const educationInfo = {
       descBullets: [
         "劉羽童, 福井類, 「A wearable music generation device for arousing leisure motivation using the effect of self-efficacy」, 日本機械学会ロボティクス・メカトロニクス講演会2024講演論文集, 宇都宮, 2024年6月, 講演番号: 1P2-H01.",
         "劉羽童, 本田功輝, 福井類, 「意味に基づくリストバンド型音楽生成システムの設計 －象徴的手法と比較した自己効力感の向上－」, 第30回ロボティクスシンポジア予稿集, 愛媛県松山市, 2025年3月, pp.166-168.",
-        "Yutong Liu, Koki Honda, Rui Fukui, "Design of a Semantic-Based Wrist-Worn Music Generation System: Enhancing Self-Efficacy Compared to Traditional Symbolic-Based Methods."
+        "Yutong Liu, Koki Honda, Rui Fukui, Design of a Semantic-Based Wrist-Worn Music Generation System: Enhancing Self-Efficacy Compared to Traditional Symbolic-Based Methods."
       ]
     },
     {
@@ -215,7 +215,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "View Portfolio",
-          url: process.env.PUBLIC_URL + "/Portfolio_Liu%20Yutong.pdf"
+          url: "https://drive.google.com/file/d/1oprPGkPR_rJ1XWOz6bp70VnXhWaioHpm/preview"
         }
         //  you can add extra buttons here.
       ]
