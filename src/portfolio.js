@@ -205,15 +205,15 @@ const openSource = {
 
 const bigProjects = {
   title: "Portfolio",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "CHECK OUT MY UX JOURNEY IN SHANGHAI！",
   projects: [
     // {
-    //   image: require("./assets/images/saayaHealthLogo.webp"),
-    //   projectName: "Saayahealth",
-    //   projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    //   image: require("./assets/images/Portfolio.jpg"),
+    //   projectName: "My UX Portfolio",
+    //   projectDesc: "Check out my UX journey in Shanghai",
     //   footerLink: [
     //     {
-    //       name: "Visit Website",
+    //       name: "View Portfolio",
     //       url: "http://saayahealth.com/"
     //     }
     //     //  you can add extra buttons here.
