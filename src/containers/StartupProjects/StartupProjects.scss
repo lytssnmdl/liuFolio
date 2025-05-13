@@ -1,11 +1,17 @@
 @import "../../_globalColor";
 
-.card-image {
+// .card-image {
+//   width: 100% !important;
+//   height: auto !important;
+//   display: block !important;
+//   object-fit: contain;
+//   // border: 2px solid blue;
+// }
+.project-card .card-image {
   width: 100% !important;
   height: auto !important;
   display: block !important;
   object-fit: contain;
-  // border: 2px solid blue;
 }
 .card-title {
   color: $titleColor;
