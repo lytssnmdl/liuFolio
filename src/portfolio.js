@@ -241,7 +241,7 @@ const bigProjects = {
 const achievementSection = {
   title: emoji("Ongoing Projects 🚀 "),
   subtitle:
-    ""Some interesting projects I'm currently working on or collaborating with a team !",
+    "Some interesting projects I'm currently working on or collaborating with a team !",
 
   achievementsCards: [
     {
