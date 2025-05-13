@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/liuFolio/static/css/main.05ccc1c2.css",
-    "main.js": "/liuFolio/static/js/main.5b94f5fd.js",
+    "main.js": "/liuFolio/static/js/main.c414fd6d.js",
     "static/css/64.bba8fa55.chunk.css": "/liuFolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/liuFolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/liuFolio/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/liuFolio/static/js/769.bda0d7b7.chunk.js",
     "static/media/DT2.jpg": "/liuFolio/static/media/DT2.e407000ca4611e5992af.jpg",
     "static/media/music2.jpg": "/liuFolio/static/media/music2.9d5bad7f36a9630eca44.jpg",
+    "static/media/mind.jpg": "/liuFolio/static/media/mind.9a564fd19e99d5e70852.jpg",
     "static/media/TongjiLogo.png": "/liuFolio/static/media/TongjiLogo.9a742087910d19565b32.png",
     "static/media/Portfolio.webp": "/liuFolio/static/media/Portfolio.94bcd6fb857b3529bef2.webp",
     "static/media/Montserrat-Regular.ttf": "/liuFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -18,7 +19,6 @@
     "static/media/contactMailDark.svg": "/liuFolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/quoraLogo.png": "/liuFolio/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
     "static/media/developerActivity.svg": "/liuFolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
-    "static/media/googleAssistantLogo.webp": "/liuFolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
     "static/media/airbnbLogo.png": "/liuFolio/static/media/airbnbLogo.e8497507db673acd3991.png",
     "static/media/facebookLogo.png": "/liuFolio/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
     "static/media/skill.svg": "/liuFolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
@@ -27,7 +27,7 @@
     "index.html": "/liuFolio/index.html",
     "static/media/talksCardBack.svg": "/liuFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.05ccc1c2.css.map": "/liuFolio/static/css/main.05ccc1c2.css.map",
-    "main.5b94f5fd.js.map": "/liuFolio/static/js/main.5b94f5fd.js.map",
+    "main.c414fd6d.js.map": "/liuFolio/static/js/main.c414fd6d.js.map",
     "64.bba8fa55.chunk.css.map": "/liuFolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/liuFolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/liuFolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -35,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.05ccc1c2.css",
-    "static/js/main.5b94f5fd.js"
+    "static/js/main.c414fd6d.js"
   ]
 }
