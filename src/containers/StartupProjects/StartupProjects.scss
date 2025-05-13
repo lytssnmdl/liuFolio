@@ -1,12 +1,11 @@
 @import "../../_globalColor";
 
 .card-image {
-  width: 100%;              // 💥 关键，宽度占满父容器
+  width: 100%;
   height: auto;
   display: block;
   object-fit: contain;
-  margin: 0 auto;
-  border: 2px dashed blue;
+  border: 2px solid blue; // 调试用
 }
 .card-title {
   color: $titleColor;
@@ -53,10 +52,8 @@
 }
 .project-image {
   width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   padding: 0;
+  margin: 0;
 }
 
 .projects-container {
@@ -84,8 +81,10 @@
 }
 
 .full-width-card {
+  border: 2px solid red;
+  width: 100%;
+  max-width: 100%;
   grid-column: 1 / -1 !important;
-  border: 2px solid red;  // 🔍调试时可见范围
 }
 
 @media (max-width: 768px) {
