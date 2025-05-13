@@ -266,7 +266,7 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "A Digital Twin System for Construction Site Safety Management",
       subtitle:
         "A Digital Twin System for Construction Site Safety Management",
       image: require("./assets/images/DT2.jpg"),
@@ -279,10 +279,10 @@ const achievementSection = {
       ]
     },
      {
-      title: "Google Assistant Action",
+      title: "Mind-Align",
       subtitle:
         "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+      image: require("./assets/images/mind.jpg"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
