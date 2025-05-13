@@ -21,6 +21,7 @@
 .project-card {
   display: flex;
   flex-direction: column;
+  min-height: 250px;
   background-color: $lightBackground2;
   padding: 1.5rem;
   border-radius: 10px;
@@ -51,12 +52,12 @@
   box-shadow: 0px 20px 30px -10px $darkBoxShadow;
 }
 .project-image {
-  position: relative;
-  height: auto;           // 🔧 原本的 250px 会强制裁切图片高度
+  height: auto;
+  min-height: 120px;     // ✅ 添加最小高度，防止卡片被压缩
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 1rem 0;        // 可选，为上下留出空间
+  padding: 1rem 0;
 }
 
 .projects-container {
