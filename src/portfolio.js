@@ -274,7 +274,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Paper",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://ieeexplore.ieee.org/abstract/document/10070318"
         }
       ]
     },
@@ -287,7 +287,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Slides",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://www.canva.com/design/DAGTQ9t61QY/YfechPAbWa7xj7GAlExYrg/view?utm_content=DAGTQ9t61QY&utm_campaign=designshare&utm_medium=link&utm_source=viewer"
         }
       ]
     },
