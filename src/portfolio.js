@@ -215,7 +215,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "View Portfolio",
-          url: "https://drive.google.com/file/d/1oprPGkPR_rJ1XWOz6bp70VnXhWaioHpm/preview"
+          url: "https://drive.google.com/file/d/1oprPGkPR_rJ1XWOz6bp70VnXhWaioHpm/"
         }
         //  you can add extra buttons here.
       ]
