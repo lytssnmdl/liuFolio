@@ -30,7 +30,7 @@ const greeting = {
 "Based on research in HCI (Human-Computer Interaction), I am engaged in developing intuitive and user-centered hardware and software systems."
 ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1PjIWQ_GeDhy-KOH-sDPfQHHGTA1sxwhN/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
