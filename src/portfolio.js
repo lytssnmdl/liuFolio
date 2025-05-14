@@ -37,13 +37,13 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
+  github: "https://github.com/lytssnmdl",
+  linkedin: "https://www.linkedin.com/in/lytssnmdl/",
   gmail: "lytssnmdl@gmail.com",
-  weixin: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
+  weixin: "https://drive.google.com/file/d/1G2mOMBrMU7Rfu_16d9twAcCckzJ-2NRn/",
+  facebook: "https://www.facebook.com/lytssnmdl",
   // bilibili: "https://space.bilibili.com/2098446?spm_id_from=333.1007.0.0",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
