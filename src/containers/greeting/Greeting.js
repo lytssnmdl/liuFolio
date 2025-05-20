@@ -43,6 +43,16 @@ export default function Greeting() {
               <SocialMedia />
               <div className="button-greeting-div">
                 <Button text="Contact me" href="#contact" />
+
+                    <a
+                      href="https://drive.google.com/file/d/1OkHjkfQxdM21hJe2XnZYfbR9rNHFYZAe/view"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="download-link-button"
+                    >
+                      <Button text="My UX Portfolio" />
+                    </a>
+                
                 {greeting.resumeLink && (
                   <a
                     href={require("./CV_Liu.pdf")}
@@ -51,7 +61,7 @@ export default function Greeting() {
                   >
                     <Button text="Download my resume" />
                   </a>
-                )}
+                )} 
               </div>
             </div>
           </div>
