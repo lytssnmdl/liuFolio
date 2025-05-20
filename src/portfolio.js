@@ -126,7 +126,7 @@ const educationInfo = {
       logo: require("./assets/images/TongjiLogo.png"),
       subHeader: "Master of Interaction Design, College of Design & Innovation",
       duration: "September 2019 – July 2022",
-      desc: "Ranked top 10% in the college. Took courses about UX design, Service Design, Interaction Design, ...",
+      desc: "Ranked top 10% in the college. Took courses about UX design, Service Design, Interaction Design, Digital Twin...",
       descBullets: ["Y. Liu, Research on the Design of Digital Twin System for Construction Safety, In Proceedings of 2nd International Signal Processing, Communications and Engineering Management Conference (ISPCEM), Montreal, ON, Canada, 2022, pp. 254-258."]
     },
     {
@@ -135,7 +135,7 @@ const educationInfo = {
       subHeader: "Bachelor of Communication Engineering, College of Communication and Information Engineering",
       duration: "September 2014 – July 2018",
       desc: "Acquired knowledge in information processing and embedded technologies; independently developed several IoT projects.",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      descBullets: ["Independently developed several IoT-based projects, including a facial recognition and group identification application that integrates real-time image processing with edge device computing. "]
     }
   ]
 };
