@@ -6,14 +6,19 @@
   line-height: 0px;
 }
 
-.podcast {
-  width: 600px;
+.podcast-main-div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start; // 或 center，如果你想居中对齐
+  gap: 1rem; // 歌曲间距
+  padding-right: 1rem; // 最右侧不贴边
 }
 
-.podcast-main-div {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1rem 1rem;
+.podcast {
+  width: 300px; // 固定宽度
+  height: 300px; // 固定高度，实现正方形
+  border: none;
+  border-radius: 8px;
 }
 .subTitle {
   color: $subTitle;
